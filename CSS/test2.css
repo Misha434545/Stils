@@ -2,7 +2,7 @@ h1,p{color: #ffffff; font-family: Arial; text-align: center;}
 img{width: 40%; margin-left: auto; margin-right:auto; display: block;; }
 body {
     background-image: url('https://test1-emgndhaqd0c9h2db.a01.azurefd.net/images/6f11a662-af3c-413c-a4b1-5e870d9588ec.png'); /* Шлях до зображення */
-    background-size: cover; /* Зображення покриває весь фон */
+    background-size: 120%; /* Зображення покриває весь фон */
     background-position: center; /* Центрує зображення */
     background-repeat: no-repeat; /* Вимикає повторення зображення */
 }
